@@ -3,10 +3,12 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=hickelmy&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=hickelmy&label=Profile%20views](https://komarev.com/ghpvc/?username=hickelmy&label=PROFILE+VIEWS&color=0e75b6&style=flat"
     alt="hickelmy"
   />
 </p>
+
+
 
 <div class="container">
   <div class="card">
