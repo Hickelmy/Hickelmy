@@ -20,9 +20,6 @@ I'm **Riquelmy Costa**, a Full Stack Developer focused on backend, cloud and sof
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=hickelmy&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickelmy&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" />
-</p>
+[View contributions and activity ↗](https://github.com/Hickelmy#contribution-activity)
 
 <p align="center"><sub>☁ dream.exe is running...</sub></p>
