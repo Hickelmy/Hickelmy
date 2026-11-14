@@ -1,103 +1,28 @@
-<h1 align="center">Riquelmy Costa</h1>
+<p align="center">
+  <img src="dreamcore-banner-v2.png" width="100%" alt="Céu dreamcore com janela Dream.exe, escada flutuante e portas infinitas" />
+</p>
 
-<h3 align="center">Full Stack Software Developer · Backend · Cloud · Software Architecture</h3>
+# Hello there ☁️
+
+I'm **Riquelmy Costa**, a Full Stack Developer focused on backend, cloud and software architecture. I build web applications, REST APIs and cloud-based solutions, with experience in healthcare and fintech.
+
+- 💾 Working with **TypeScript, Node.js, APIs, AWS and cloud infrastructure**
+- 🌱 Exploring **Java, Spring Boot and Hibernate**
+- ✨ Interested in **cloud architecture, automation and applied AI**
+
+## 🪟 Technologies & Tools
+
+**Frontend:** TypeScript · JavaScript · Angular · React · Next.js · Tailwind CSS · HTML · CSS  
+**Backend:** Node.js · NestJS · PHP · Laravel · C# · .NET · Python · GraphQL  
+**Data:** PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Prisma · TypeORM · Sequelize  
+**Cloud & tools:** AWS · Docker · Nginx · GitHub Actions · Linux · Git · Grafana · Datadog · Mixpanel  
+**Testing:** Jest · Postman · unit, integration and end-to-end tests
+
+## 📊 GitHub Stats
 
 <p align="center">
-  Building scalable web applications, REST APIs and cloud-based solutions.
+  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=hickelmy&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickelmy&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" />
 </p>
 
----
-
-### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" title="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" title="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" title="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" title="GraphQL" />
-</p>
-
-### Databases & ORM
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" title="Prisma" />
-</p>
-
-<sub>`TypeORM` · `Sequelize` · database design and query optimization</sub>
-
-### Cloud, DevOps & Observability
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
-</p>
-
-<sub>EC2 · RDS · S3 · CI/CD pipelines · `Datadog` · `Mixpanel` · application monitoring</sub>
-
-### Testing
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
-</p>
-
-<sub>Unit, integration and end-to-end testing</sub>
-
----
-
-### Currently Building With
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40" title="Hibernate" />
-</p>
-
-Expanding into the JVM ecosystem — Spring Boot and Hibernate — applying the
-same architectural patterns I use with NestJS and TypeORM. Projects coming soon.
-
----
-
-### About
-
-- Full Stack Developer working end-to-end across **TypeScript, Node.js and modern web applications**
-- Backend focus: **REST APIs, layered architecture, authentication and authorization**
-- Hands-on with **AWS infrastructure, containerization, CI/CD and observability**
-- Experience across **healthcare and fintech** products in production
-- Interested in **cloud architecture, automation and applied AI**
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hickelmy&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hickelmy&layout=compact&hide_border=true" />
-</p>
+<p align="center"><sub>☁ dream.exe is running...</sub></p>
